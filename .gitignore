@@ -1,0 +1,13 @@
+*.a
+*.o
+*.so
+
+build
+
+.cache
+.tox
+.*.swp
+.*.swo
+*~
+
+compile_commands.json
